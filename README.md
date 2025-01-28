@@ -22,6 +22,12 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 - ![Java](https://img.shields.io/badge/Java-70%25-red) ![Java Progress](https://progress-bar.dev/70/?scale=100&title=Java&color=red&width=200)
 - ![CSS](https://img.shields.io/badge/CSS-55%25-green) ![CSS Progress](https://progress-bar.dev/55/?scale=100&title=CSS&color=green&width=200)
 
+- ![C](https://img.shields.io/badge/C-90%25-blue) 
+- ![HTML](https://img.shields.io/badge/HTML-80%25-orange)
+- ![C++](https://img.shields.io/badge/C++-75%25-lightblue)
+- ![Java](https://img.shields.io/badge/Java-70%25-red)
+- ![CSS](https://img.shields.io/badge/CSS-55%25-green)
+
 ---
 
 ## 📚 Current Projects
