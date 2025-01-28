@@ -16,14 +16,11 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ---
 
 ## 🛠️ Skills
-
-| Language   | Proficiency |
-|------------|-------------|
-| C          | 90%         |
-| HTML       | 80%         |
-| C++        | 75%         |
-| Java       | 70%         |
-| CSS        | 55%         |
+- ![C](https://img.shields.io/badge/C-90%25-blue) ![C Progress](https://progress-bar.dev/90/?scale=100&title=C&color=blue&width=200)
+- ![HTML](https://img.shields.io/badge/HTML-80%25-orange) ![HTML Progress](https://progress-bar.dev/80/?scale=100&title=HTML&color=orange&width=200)
+- ![C++](https://img.shields.io/badge/C++-75%25-lightblue) ![C++ Progress](https://progress-bar.dev/75/?scale=100&title=C++&color=lightblue&width=200)
+- ![Java](https://img.shields.io/badge/Java-70%25-red) ![Java Progress](https://progress-bar.dev/70/?scale=100&title=Java&color=red&width=200)
+- ![CSS](https://img.shields.io/badge/CSS-55%25-green) ![CSS Progress](https://progress-bar.dev/55/?scale=100&title=CSS&color=green&width=200)
 
 ---
 
