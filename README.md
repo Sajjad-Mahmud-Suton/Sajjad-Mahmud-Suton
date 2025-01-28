@@ -45,7 +45,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 🐍 Watch My Contribution Snake  
 <p align="center">
   <img src="https://github.com/Sajjad-Mahmud-Suton/Sajjad-Mahmud-Suton/raw/output/github-contribution-grid-snake.svg" alt="Snake Animation">
-</p>  
+</p>
 
 ---
 
