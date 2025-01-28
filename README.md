@@ -36,8 +36,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 ## 📊 GitHub Stats  
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Sajjad-Mahmud-Suton&show_icons=true&theme=radical" alt="GitHub Stats">
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajjad-Mahmud-Suton&theme=dark" alt="GitHub Streak"><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Sajjad-Mahmud-Suton&theme=dark" alt="GitHub Streak">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sajjad-Mahmud-Suton&layout=compact&theme=radical" alt="Top Languages">
 </p>  
 
