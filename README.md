@@ -29,20 +29,22 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ## 📚 Current Projects
 - 🚀 **Portfolio Website**: Personal portfolio using **HTML** and **CSS**
-- 📝 **To-Do List App**: A simple task management app using **Java**
+- 📝 **Calculator App**: A simple Calculator app using **Java**
 - 🧩 **Problem Solving**: Implementing algorithms in **C** and **C++**
 
 ---
 
 ## 📊 GitHub Stats
 
-![Sajjad Mahmud Suton’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajjad-Mahmud-Suton&show_icons=true&theme=radical)
+![Sajjad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sajjad-Mahmud-Suton&show_icons=true&theme=radical)
+
 
 ---
 
 ## 🔥 GitHub Contributions  
 
-![Sajjad Mahmud Suton's GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=Sajjad-Mahmud-Suton&theme=dark)
+![Sajjad's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sajjad-Mahmud-Suton&theme=dark)
+
 
 ---
 
