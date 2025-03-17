@@ -3,6 +3,7 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a love for learning and solving real-world problems. 🚀  
 
 ---
+![Profile Views](https://komarev.com/ghpvc/?username=Sajjad-Mahmud-Suton&color=blue)
 
 ## 🚀 About Me  
 - 🌱 Currently exploring **C**, **HTML**, **C++**, **Java**, and **CSS**  
