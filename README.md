@@ -4,8 +4,6 @@
 Welcome to my GitHub profile! I'm a passionate software developer with a love for learning and solving real-world problems. 🚀  
 
 ---
-# 🏆 GitHub Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=YourGitHubUsername&theme=onedark&no-frame=true&margin-w=5&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews)
 
 
 ## 🚀 About Me  
