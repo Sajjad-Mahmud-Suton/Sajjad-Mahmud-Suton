@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a love fo
 
 ---
 ## 🏆 GitHub Profile Trophy
-![Trophy](https://github-profile-trophy.vercel.app/?username=Sajjad-Mahmud-Suton&theme=dracula&no-frame=true&margin-w=5&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews)
+![Trophy](https://github-profile-trophy.vercel.app/?username=Sajjad-Mahmud-Suton&theme=dracula&no-frame=true&margin-w=4&column=6&title=Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews)
 
 ## 🚀 About Me  
 - 🌱 Currently exploring **C**, **HTML**, **C++**, **Java**, and **CSS**  
