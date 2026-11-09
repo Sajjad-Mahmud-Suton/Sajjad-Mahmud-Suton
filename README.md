@@ -122,29 +122,46 @@ philosophy: "Turn curiosity into code, and bugs into features." ☕⚡
 
 
 
+
 <!-- FEATURED REPOSITORIES -->
 
 <h2 align="center">🚀 Featured Repositories</h2>
 
-<div align="center">
+<table align="center">
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sajjad-Mahmud-Suton/Green-Guardian">
+        <b>🌱 Green Guardian</b>
+      </a>
+      <br/>
+      Environmental Protection Project
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sajjad-Mahmud-Suton/Student-Management-System-Using-C">
+        <b>🎓 Student Management System</b>
+      </a>
+      <br/>
+      C Programming Project
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/Sajjad-Mahmud-Suton/Competitive-Programming-Class">
+        <b>💻 Competitive Programming</b>
+      </a>
+      <br/>
+      Algorithms & Problem Solving
+    </td>
+    <td align="center">
+      <a href="https://github.com/Sajjad-Mahmud-Suton/E-Shop">
+        <b>🛒 E-Shop</b>
+      </a>
+      <br/>
+      E-Commerce Project
+    </td>
+  </tr>
+</table>
 
-<a href="https://github.com/Sajjad-Mahmud-Suton/Green-Guardian">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=Green-Guardian&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Sajjad-Mahmud-Suton/Student-Management-System-Using-C">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=Student-Management-System-Using-C&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Sajjad-Mahmud-Suton/Competitive-Programming-Class">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=Competitive-Programming-Class&theme=tokyonight&hide_border=true" />
-</a>
-
-<a href="https://github.com/Sajjad-Mahmud-Suton/E-Shop">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=E-Shop&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
 
 ---
 
