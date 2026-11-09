@@ -119,35 +119,31 @@ philosophy: "Turn curiosity into code, and bugs into features." ☕⚡
 
 ---
 
-### 🚀 Featured Repositories
+
+
+
+<!-- FEATURED REPOSITORIES -->
+
+<h2 align="center">🚀 Featured Repositories</h2>
 
 <div align="center">
-  <table border="0">
-    <tr>
-      <td>
-        <a href="https://github.com/Sajjad-Mahmud-Suton/Green-Guardian">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=Green-Guardian&theme=tokyonight&hide_border=true&border_radius=10" alt="Green Guardian" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Sajjad-Mahmud-Suton/Student-Management-System-Using-C">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=Student-Management-System-Using-C&theme=tokyonight&hide_border=true&border_radius=10" alt="Student Management System" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/Sajjad-Mahmud-Suton/Competitive-Programming-Class">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=Competitive-Programming-Class&theme=tokyonight&hide_border=true&border_radius=10" alt="Competitive Programming" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/Sajjad-Mahmud-Suton/E-Shop">
-          <img src="https://github-readme-stats-sigma-five.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=E-Shop&theme=tokyonight&hide_border=true&border_radius=10" alt="E-Shop" />
-        </a>
-      </td>
-    </tr>
-  </table>
+
+<a href="https://github.com/Sajjad-Mahmud-Suton/Green-Guardian">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=Green-Guardian&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Sajjad-Mahmud-Suton/Student-Management-System-Using-C">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=Student-Management-System-Using-C&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Sajjad-Mahmud-Suton/Competitive-Programming-Class">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=Competitive-Programming-Class&theme=tokyonight&hide_border=true" />
+</a>
+
+<a href="https://github.com/Sajjad-Mahmud-Suton/E-Shop">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Sajjad-Mahmud-Suton&repo=E-Shop&theme=tokyonight&hide_border=true" />
+</a>
+
 </div>
 
 ---
